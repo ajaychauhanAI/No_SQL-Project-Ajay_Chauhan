@@ -1,0 +1,702 @@
+[
+  {
+    "_id": "E001",
+    "student_id": "S003",
+    "course_id": "C084",
+    "semester": "Spring 2024",
+    "marks": 72
+  },
+  {
+    "_id": "E002",
+    "student_id": "S085",
+    "course_id": "C087",
+    "semester": "Spring 2024",
+    "marks": 74
+  },
+  {
+    "_id": "E003",
+    "student_id": "S089",
+    "course_id": "C029",
+    "semester": "Spring 2024",
+    "marks": 65
+  },
+  {
+    "_id": "E004",
+    "student_id": "S035",
+    "course_id": "C029",
+    "semester": "Spring 2024",
+    "marks": 60
+  },
+  {
+    "_id": "E005",
+    "student_id": "S040",
+    "course_id": "C071",
+    "semester": "Spring 2024",
+    "marks": 78
+  },
+  {
+    "_id": "E006",
+    "student_id": "S059",
+    "course_id": "C095",
+    "semester": "Spring 2024",
+    "marks": 55
+  },
+  {
+    "_id": "E007",
+    "student_id": "S077",
+    "course_id": "C035",
+    "semester": "Spring 2024",
+    "marks": 84
+  },
+  {
+    "_id": "E008",
+    "student_id": "S016",
+    "course_id": "C058",
+    "semester": "Spring 2024",
+    "marks": 51
+  },
+  {
+    "_id": "E009",
+    "student_id": "S093",
+    "course_id": "C064",
+    "semester": "Spring 2024",
+    "marks": 54
+  },
+  {
+    "_id": "E010",
+    "student_id": "S035",
+    "course_id": "C054",
+    "semester": "Spring 2024",
+    "marks": 95
+  },
+  {
+    "_id": "E011",
+    "student_id": "S088",
+    "course_id": "C026",
+    "semester": "Spring 2024",
+    "marks": 85
+  },
+  {
+    "_id": "E012",
+    "student_id": "S011",
+    "course_id": "C049",
+    "semester": "Spring 2024",
+    "marks": 84
+  },
+  {
+    "_id": "E013",
+    "student_id": "S037",
+    "course_id": "C038",
+    "semester": "Spring 2024",
+    "marks": 92
+  },
+  {
+    "_id": "E014",
+    "student_id": "S044",
+    "course_id": "C045",
+    "semester": "Spring 2024",
+    "marks": 100
+  },
+  {
+    "_id": "E015",
+    "student_id": "S010",
+    "course_id": "C072",
+    "semester": "Spring 2024",
+    "marks": 92
+  },
+  {
+    "_id": "E016",
+    "student_id": "S083",
+    "course_id": "C032",
+    "semester": "Spring 2024",
+    "marks": 89
+  },
+  {
+    "_id": "E017",
+    "student_id": "S091",
+    "course_id": "C011",
+    "semester": "Spring 2024",
+    "marks": 54
+  },
+  {
+    "_id": "E018",
+    "student_id": "S051",
+    "course_id": "C081",
+    "semester": "Spring 2024",
+    "marks": 82
+  },
+  {
+    "_id": "E019",
+    "student_id": "S013",
+    "course_id": "C020",
+    "semester": "Spring 2024",
+    "marks": 75
+  },
+  {
+    "_id": "E020",
+    "student_id": "S064",
+    "course_id": "C072",
+    "semester": "Spring 2024",
+    "marks": 56
+  },
+  {
+    "_id": "E021",
+    "student_id": "S097",
+    "course_id": "C094",
+    "semester": "Spring 2024",
+    "marks": 58
+  },
+  {
+    "_id": "E022",
+    "student_id": "S025",
+    "course_id": "C085",
+    "semester": "Spring 2024",
+    "marks": 93
+  },
+  {
+    "_id": "E023",
+    "student_id": "S032",
+    "course_id": "C084",
+    "semester": "Spring 2024",
+    "marks": 91
+  },
+  {
+    "_id": "E024",
+    "student_id": "S039",
+    "course_id": "C077",
+    "semester": "Spring 2024",
+    "marks": 56
+  },
+  {
+    "_id": "E025",
+    "student_id": "S085",
+    "course_id": "C030",
+    "semester": "Spring 2024",
+    "marks": 81
+  },
+  {
+    "_id": "E026",
+    "student_id": "S028",
+    "course_id": "C012",
+    "semester": "Spring 2024",
+    "marks": 55
+  },
+  {
+    "_id": "E027",
+    "student_id": "S002",
+    "course_id": "C072",
+    "semester": "Spring 2024",
+    "marks": 60
+  },
+  {
+    "_id": "E028",
+    "student_id": "S019",
+    "course_id": "C047",
+    "semester": "Spring 2024",
+    "marks": 64
+  },
+  {
+    "_id": "E029",
+    "student_id": "S098",
+    "course_id": "C080",
+    "semester": "Spring 2024",
+    "marks": 92
+  },
+  {
+    "_id": "E030",
+    "student_id": "S040",
+    "course_id": "C045",
+    "semester": "Spring 2024",
+    "marks": 80
+  },
+  {
+    "_id": "E031",
+    "student_id": "S037",
+    "course_id": "C079",
+    "semester": "Spring 2024",
+    "marks": 53
+  },
+  {
+    "_id": "E032",
+    "student_id": "S006",
+    "course_id": "C067",
+    "semester": "Spring 2024",
+    "marks": 79
+  },
+  {
+    "_id": "E033",
+    "student_id": "S001",
+    "course_id": "C017",
+    "semester": "Spring 2024",
+    "marks": 67
+  },
+  {
+    "_id": "E034",
+    "student_id": "S048",
+    "course_id": "C005",
+    "semester": "Spring 2024",
+    "marks": 91
+  },
+  {
+    "_id": "E035",
+    "student_id": "S065",
+    "course_id": "C021",
+    "semester": "Spring 2024",
+    "marks": 82
+  },
+  {
+    "_id": "E036",
+    "student_id": "S015",
+    "course_id": "C009",
+    "semester": "Spring 2024",
+    "marks": 82
+  },
+  {
+    "_id": "E037",
+    "student_id": "S080",
+    "course_id": "C059",
+    "semester": "Spring 2024",
+    "marks": 100
+  },
+  {
+    "_id": "E038",
+    "student_id": "S016",
+    "course_id": "C041",
+    "semester": "Spring 2024",
+    "marks": 73
+  },
+  {
+    "_id": "E039",
+    "student_id": "S046",
+    "course_id": "C043",
+    "semester": "Spring 2024",
+    "marks": 98
+  },
+  {
+    "_id": "E040",
+    "student_id": "S032",
+    "course_id": "C093",
+    "semester": "Spring 2024",
+    "marks": 61
+  },
+  {
+    "_id": "E041",
+    "student_id": "S038",
+    "course_id": "C067",
+    "semester": "Spring 2024",
+    "marks": 56
+  },
+  {
+    "_id": "E042",
+    "student_id": "S009",
+    "course_id": "C057",
+    "semester": "Spring 2024",
+    "marks": 82
+  },
+  {
+    "_id": "E043",
+    "student_id": "S078",
+    "course_id": "C080",
+    "semester": "Spring 2024",
+    "marks": 90
+  },
+  {
+    "_id": "E044",
+    "student_id": "S007",
+    "course_id": "C014",
+    "semester": "Spring 2024",
+    "marks": 90
+  },
+  {
+    "_id": "E045",
+    "student_id": "S062",
+    "course_id": "C040",
+    "semester": "Spring 2024",
+    "marks": 67
+  },
+  {
+    "_id": "E046",
+    "student_id": "S045",
+    "course_id": "C005",
+    "semester": "Spring 2024",
+    "marks": 52
+  },
+  {
+    "_id": "E047",
+    "student_id": "S078",
+    "course_id": "C039",
+    "semester": "Spring 2024",
+    "marks": 86
+  },
+  {
+    "_id": "E048",
+    "student_id": "S021",
+    "course_id": "C022",
+    "semester": "Spring 2024",
+    "marks": 82
+  },
+  {
+    "_id": "E049",
+    "student_id": "S025",
+    "course_id": "C083",
+    "semester": "Spring 2024",
+    "marks": 86
+  },
+  {
+    "_id": "E050",
+    "student_id": "S083",
+    "course_id": "C062",
+    "semester": "Spring 2024",
+    "marks": 71
+  },
+  {
+    "_id": "E051",
+    "student_id": "S085",
+    "course_id": "C024",
+    "semester": "Spring 2024",
+    "marks": 74
+  },
+  {
+    "_id": "E052",
+    "student_id": "S025",
+    "course_id": "C059",
+    "semester": "Spring 2024",
+    "marks": 53
+  },
+  {
+    "_id": "E053",
+    "student_id": "S057",
+    "course_id": "C050",
+    "semester": "Spring 2024",
+    "marks": 92
+  },
+  {
+    "_id": "E054",
+    "student_id": "S032",
+    "course_id": "C035",
+    "semester": "Spring 2024",
+    "marks": 89
+  },
+  {
+    "_id": "E055",
+    "student_id": "S044",
+    "course_id": "C063",
+    "semester": "Spring 2024",
+    "marks": 51
+  },
+  {
+    "_id": "E056",
+    "student_id": "S099",
+    "course_id": "C080",
+    "semester": "Spring 2024",
+    "marks": 58
+  },
+  {
+    "_id": "E057",
+    "student_id": "S066",
+    "course_id": "C048",
+    "semester": "Spring 2024",
+    "marks": 69
+  },
+  {
+    "_id": "E058",
+    "student_id": "S030",
+    "course_id": "C060",
+    "semester": "Spring 2024",
+    "marks": 81
+  },
+  {
+    "_id": "E059",
+    "student_id": "S001",
+    "course_id": "C002",
+    "semester": "Spring 2024",
+    "marks": 65
+  },
+  {
+    "_id": "E060",
+    "student_id": "S002",
+    "course_id": "C064",
+    "semester": "Spring 2024",
+    "marks": 82
+  },
+  {
+    "_id": "E061",
+    "student_id": "S055",
+    "course_id": "C046",
+    "semester": "Spring 2024",
+    "marks": 51
+  },
+  {
+    "_id": "E062",
+    "student_id": "S037",
+    "course_id": "C026",
+    "semester": "Spring 2024",
+    "marks": 76
+  },
+  {
+    "_id": "E063",
+    "student_id": "S030",
+    "course_id": "C065",
+    "semester": "Spring 2024",
+    "marks": 84
+  },
+  {
+    "_id": "E064",
+    "student_id": "S085",
+    "course_id": "C080",
+    "semester": "Spring 2024",
+    "marks": 90
+  },
+  {
+    "_id": "E065",
+    "student_id": "S053",
+    "course_id": "C018",
+    "semester": "Spring 2024",
+    "marks": 67
+  },
+  {
+    "_id": "E066",
+    "student_id": "S056",
+    "course_id": "C090",
+    "semester": "Spring 2024",
+    "marks": 61
+  },
+  {
+    "_id": "E067",
+    "student_id": "S075",
+    "course_id": "C068",
+    "semester": "Spring 2024",
+    "marks": 75
+  },
+  {
+    "_id": "E068",
+    "student_id": "S018",
+    "course_id": "C025",
+    "semester": "Spring 2024",
+    "marks": 91
+  },
+  {
+    "_id": "E069",
+    "student_id": "S047",
+    "course_id": "C096",
+    "semester": "Spring 2024",
+    "marks": 93
+  },
+  {
+    "_id": "E070",
+    "student_id": "S002",
+    "course_id": "C069",
+    "semester": "Spring 2024",
+    "marks": 78
+  },
+  {
+    "_id": "E071",
+    "student_id": "S014",
+    "course_id": "C029",
+    "semester": "Spring 2024",
+    "marks": 78
+  },
+  {
+    "_id": "E072",
+    "student_id": "S093",
+    "course_id": "C028",
+    "semester": "Spring 2024",
+    "marks": 86
+  },
+  {
+    "_id": "E073",
+    "student_id": "S073",
+    "course_id": "C077",
+    "semester": "Spring 2024",
+    "marks": 73
+  },
+  {
+    "_id": "E074",
+    "student_id": "S024",
+    "course_id": "C030",
+    "semester": "Spring 2024",
+    "marks": 69
+  },
+  {
+    "_id": "E075",
+    "student_id": "S058",
+    "course_id": "C039",
+    "semester": "Spring 2024",
+    "marks": 65
+  },
+  {
+    "_id": "E076",
+    "student_id": "S099",
+    "course_id": "C088",
+    "semester": "Spring 2024",
+    "marks": 97
+  },
+  {
+    "_id": "E077",
+    "student_id": "S042",
+    "course_id": "C057",
+    "semester": "Spring 2024",
+    "marks": 91
+  },
+  {
+    "_id": "E078",
+    "student_id": "S035",
+    "course_id": "C019",
+    "semester": "Spring 2024",
+    "marks": 80
+  },
+  {
+    "_id": "E079",
+    "student_id": "S084",
+    "course_id": "C008",
+    "semester": "Spring 2024",
+    "marks": 73
+  },
+  {
+    "_id": "E080",
+    "student_id": "S082",
+    "course_id": "C019",
+    "semester": "Spring 2024",
+    "marks": 84
+  },
+  {
+    "_id": "E081",
+    "student_id": "S025",
+    "course_id": "C094",
+    "semester": "Spring 2024",
+    "marks": 97
+  },
+  {
+    "_id": "E082",
+    "student_id": "S017",
+    "course_id": "C001",
+    "semester": "Spring 2024",
+    "marks": 58
+  },
+  {
+    "_id": "E083",
+    "student_id": "S094",
+    "course_id": "C042",
+    "semester": "Spring 2024",
+    "marks": 52
+  },
+  {
+    "_id": "E084",
+    "student_id": "S009",
+    "course_id": "C008",
+    "semester": "Spring 2024",
+    "marks": 85
+  },
+  {
+    "_id": "E085",
+    "student_id": "S069",
+    "course_id": "C006",
+    "semester": "Spring 2024",
+    "marks": 57
+  },
+  {
+    "_id": "E086",
+    "student_id": "S051",
+    "course_id": "C032",
+    "semester": "Spring 2024",
+    "marks": 55
+  },
+  {
+    "_id": "E087",
+    "student_id": "S037",
+    "course_id": "C095",
+    "semester": "Spring 2024",
+    "marks": 98
+  },
+  {
+    "_id": "E088",
+    "student_id": "S025",
+    "course_id": "C028",
+    "semester": "Spring 2024",
+    "marks": 100
+  },
+  {
+    "_id": "E089",
+    "student_id": "S041",
+    "course_id": "C008",
+    "semester": "Spring 2024",
+    "marks": 94
+  },
+  {
+    "_id": "E090",
+    "student_id": "S042",
+    "course_id": "C048",
+    "semester": "Spring 2024",
+    "marks": 59
+  },
+  {
+    "_id": "E091",
+    "student_id": "S056",
+    "course_id": "C001",
+    "semester": "Spring 2024",
+    "marks": 59
+  },
+  {
+    "_id": "E092",
+    "student_id": "S072",
+    "course_id": "C006",
+    "semester": "Spring 2024",
+    "marks": 80
+  },
+  {
+    "_id": "E093",
+    "student_id": "S051",
+    "course_id": "C010",
+    "semester": "Spring 2024",
+    "marks": 50
+  },
+  {
+    "_id": "E094",
+    "student_id": "S068",
+    "course_id": "C090",
+    "semester": "Spring 2024",
+    "marks": 94
+  },
+  {
+    "_id": "E095",
+    "student_id": "S098",
+    "course_id": "C028",
+    "semester": "Spring 2024",
+    "marks": 91
+  },
+  {
+    "_id": "E096",
+    "student_id": "S056",
+    "course_id": "C007",
+    "semester": "Spring 2024",
+    "marks": 68
+  },
+  {
+    "_id": "E097",
+    "student_id": "S079",
+    "course_id": "C043",
+    "semester": "Spring 2024",
+    "marks": 91
+  },
+  {
+    "_id": "E098",
+    "student_id": "S016",
+    "course_id": "C013",
+    "semester": "Spring 2024",
+    "marks": 51
+  },
+  {
+    "_id": "E099",
+    "student_id": "S076",
+    "course_id": "C058",
+    "semester": "Spring 2024",
+    "marks": 71
+  },
+  {
+    "_id": "E100",
+    "student_id": "S038",
+    "course_id": "C057",
+    "semester": "Spring 2024",
+    "marks": 81
+  }
+]

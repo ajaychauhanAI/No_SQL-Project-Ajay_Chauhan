@@ -1,0 +1,1102 @@
+[
+  {
+    "_id": "S001",
+    "name": "Janet Jarvis",
+    "dob": "2005-03-08",
+    "department": "Electrical",
+    "skills": [
+      "Research",
+      "C++"
+    ],
+    "attendance": 88.99
+  },
+  {
+    "_id": "S002",
+    "name": "Bruce Blair",
+    "dob": "2006-11-12",
+    "department": "Computer Science",
+    "skills": [
+      "MongoDB",
+      "Linux"
+    ],
+    "attendance": 65.55
+  },
+  {
+    "_id": "S003",
+    "name": "Alexandra Bailey",
+    "dob": "2000-08-02",
+    "department": "Computer Science",
+    "skills": [
+      "Research",
+      "AutoCAD"
+    ],
+    "attendance": 66.17
+  },
+  {
+    "_id": "S004",
+    "name": "Kyle Hale",
+    "dob": "2000-10-20",
+    "department": "Electrical",
+    "skills": [
+      "Python",
+      "Java"
+    ],
+    "attendance": 79.78
+  },
+  {
+    "_id": "S005",
+    "name": "Daniel Robinson",
+    "dob": "2004-02-28",
+    "department": "Computer Science",
+    "skills": [
+      "JavaScript",
+      "Java"
+    ],
+    "attendance": 92.1
+  },
+  {
+    "_id": "S006",
+    "name": "Tina Hodge",
+    "dob": "2005-11-01",
+    "department": "Civil",
+    "skills": [
+      "SQL",
+      "Research"
+    ],
+    "attendance": 84.43
+  },
+  {
+    "_id": "S007",
+    "name": "Anthony Zavala",
+    "dob": "2005-09-11",
+    "department": "Mechanical",
+    "skills": [
+      "Java",
+      "Git"
+    ],
+    "attendance": 74.53
+  },
+  {
+    "_id": "S008",
+    "name": "Cody Whitehead",
+    "dob": "2003-11-25",
+    "department": "Biotechnology",
+    "skills": [
+      "JavaScript",
+      "Python"
+    ],
+    "attendance": 92.03
+  },
+  {
+    "_id": "S009",
+    "name": "Thomas Jackson",
+    "dob": "2002-10-25",
+    "department": "Electrical",
+    "skills": [
+      "Python",
+      "AutoCAD"
+    ],
+    "attendance": 96.64
+  },
+  {
+    "_id": "S010",
+    "name": "Monica Martin",
+    "dob": "2002-12-18",
+    "department": "Electrical",
+    "skills": [
+      "Research",
+      "JavaScript"
+    ],
+    "attendance": 81.6
+  },
+  {
+    "_id": "S011",
+    "name": "Kathryn Ferguson",
+    "dob": "2004-11-10",
+    "department": "Biotechnology",
+    "skills": [
+      "Java",
+      "Linux"
+    ],
+    "attendance": 89.92
+  },
+  {
+    "_id": "S012",
+    "name": "Steven Wong",
+    "dob": "2003-09-06",
+    "department": "Biotechnology",
+    "skills": [
+      "MongoDB",
+      "Python"
+    ],
+    "attendance": 77.17
+  },
+  {
+    "_id": "S013",
+    "name": "Daniel Brown",
+    "dob": "2006-08-09",
+    "department": "Electrical",
+    "skills": [
+      "MongoDB",
+      "Research"
+    ],
+    "attendance": 97.55
+  },
+  {
+    "_id": "S014",
+    "name": "Jason Brown",
+    "dob": "2001-08-08",
+    "department": "Mechanical",
+    "skills": [
+      "MongoDB",
+      "SQL"
+    ],
+    "attendance": 63.22
+  },
+  {
+    "_id": "S015",
+    "name": "Cheryl Jackson",
+    "dob": "2006-04-20",
+    "department": "Civil",
+    "skills": [
+      "Research",
+      "Python"
+    ],
+    "attendance": 60.98
+  },
+  {
+    "_id": "S016",
+    "name": "Carolyn Chandler",
+    "dob": "2000-09-29",
+    "department": "Mechanical",
+    "skills": [
+      "SQL",
+      "JavaScript"
+    ],
+    "attendance": 95.39
+  },
+  {
+    "_id": "S017",
+    "name": "Aaron Marshall",
+    "dob": "2000-06-29",
+    "department": "Electrical",
+    "skills": [
+      "Linux",
+      "Git"
+    ],
+    "attendance": 60.32
+  },
+  {
+    "_id": "S018",
+    "name": "Michelle Walters",
+    "dob": "2006-03-17",
+    "department": "Computer Science",
+    "skills": [
+      "C++",
+      "Git"
+    ],
+    "attendance": 71.29
+  },
+  {
+    "_id": "S019",
+    "name": "Jessica Galvan",
+    "dob": "2002-07-26",
+    "department": "Mechanical",
+    "skills": [
+      "C++",
+      "MongoDB"
+    ],
+    "attendance": 64.61
+  },
+  {
+    "_id": "S020",
+    "name": "Adam Solomon",
+    "dob": "2004-11-23",
+    "department": "Biotechnology",
+    "skills": [
+      "AutoCAD",
+      "MongoDB"
+    ],
+    "attendance": 93.82
+  },
+  {
+    "_id": "S021",
+    "name": "Mary Bennett",
+    "dob": "2001-07-26",
+    "department": "Computer Science",
+    "skills": [
+      "Research",
+      "Git"
+    ],
+    "attendance": 83.36
+  },
+  {
+    "_id": "S022",
+    "name": "Patrick Clay",
+    "dob": "2002-07-21",
+    "department": "Electrical",
+    "skills": [
+      "Git",
+      "Research"
+    ],
+    "attendance": 76.02
+  },
+  {
+    "_id": "S023",
+    "name": "Mr. Darius Newman",
+    "dob": "2000-12-13",
+    "department": "Mechanical",
+    "skills": [
+      "Python",
+      "SQL"
+    ],
+    "attendance": 95.06
+  },
+  {
+    "_id": "S024",
+    "name": "Dr. Michael Griffin Jr.",
+    "dob": "2000-04-21",
+    "department": "Biotechnology",
+    "skills": [
+      "Linux",
+      "Git"
+    ],
+    "attendance": 83.52
+  },
+  {
+    "_id": "S025",
+    "name": "Ronald Trevino",
+    "dob": "2004-05-03",
+    "department": "Electrical",
+    "skills": [
+      "JavaScript",
+      "MongoDB"
+    ],
+    "attendance": 75.29
+  },
+  {
+    "_id": "S026",
+    "name": "Makayla Bowen",
+    "dob": "2003-10-08",
+    "department": "Computer Science",
+    "skills": [
+      "AutoCAD",
+      "JavaScript"
+    ],
+    "attendance": 74.28
+  },
+  {
+    "_id": "S027",
+    "name": "Kendra Garner",
+    "dob": "2005-06-03",
+    "department": "Civil",
+    "skills": [
+      "AutoCAD",
+      "Git"
+    ],
+    "attendance": 95.76
+  },
+  {
+    "_id": "S028",
+    "name": "Gabriela Le",
+    "dob": "2001-06-07",
+    "department": "Biotechnology",
+    "skills": [
+      "Linux",
+      "Java"
+    ],
+    "attendance": 60.12
+  },
+  {
+    "_id": "S029",
+    "name": "Mark Berry",
+    "dob": "2002-07-20",
+    "department": "Biotechnology",
+    "skills": [
+      "C++",
+      "Python"
+    ],
+    "attendance": 70.69
+  },
+  {
+    "_id": "S030",
+    "name": "Reginald Oliver",
+    "dob": "2006-08-07",
+    "department": "Electrical",
+    "skills": [
+      "JavaScript",
+      "C++"
+    ],
+    "attendance": 72.19
+  },
+  {
+    "_id": "S031",
+    "name": "Derrick Humphrey",
+    "dob": "2001-12-31",
+    "department": "Civil",
+    "skills": [
+      "Python",
+      "Java"
+    ],
+    "attendance": 69.29
+  },
+  {
+    "_id": "S032",
+    "name": "Marie Wilson",
+    "dob": "2004-05-31",
+    "department": "Biotechnology",
+    "skills": [
+      "Git",
+      "SQL"
+    ],
+    "attendance": 85.13
+  },
+  {
+    "_id": "S033",
+    "name": "Paula Jenkins",
+    "dob": "2004-02-03",
+    "department": "Biotechnology",
+    "skills": [
+      "JavaScript",
+      "Python"
+    ],
+    "attendance": 99.8
+  },
+  {
+    "_id": "S034",
+    "name": "Patricia Hines",
+    "dob": "2005-07-20",
+    "department": "Biotechnology",
+    "skills": [
+      "MongoDB",
+      "JavaScript"
+    ],
+    "attendance": 86.66
+  },
+  {
+    "_id": "S035",
+    "name": "Timothy Sparks",
+    "dob": "2002-10-13",
+    "department": "Mechanical",
+    "skills": [
+      "JavaScript",
+      "Java"
+    ],
+    "attendance": 86.14
+  },
+  {
+    "_id": "S036",
+    "name": "Wendy Wilson",
+    "dob": "2005-10-08",
+    "department": "Mechanical",
+    "skills": [
+      "MongoDB",
+      "Research"
+    ],
+    "attendance": 97.25
+  },
+  {
+    "_id": "S037",
+    "name": "Lydia Day",
+    "dob": "2003-07-27",
+    "department": "Electrical",
+    "skills": [
+      "Git",
+      "AutoCAD"
+    ],
+    "attendance": 92.77
+  },
+  {
+    "_id": "S038",
+    "name": "Donna Spencer",
+    "dob": "2000-12-20",
+    "department": "Computer Science",
+    "skills": [
+      "Git",
+      "MongoDB"
+    ],
+    "attendance": 76.5
+  },
+  {
+    "_id": "S039",
+    "name": "Fernando Rodriguez",
+    "dob": "2003-07-26",
+    "department": "Mechanical",
+    "skills": [
+      "JavaScript",
+      "Linux"
+    ],
+    "attendance": 66.05
+  },
+  {
+    "_id": "S040",
+    "name": "Juan Morris",
+    "dob": "2002-01-09",
+    "department": "Electrical",
+    "skills": [
+      "Linux",
+      "SQL"
+    ],
+    "attendance": 66.8
+  },
+  {
+    "_id": "S041",
+    "name": "Christopher Benson",
+    "dob": "2006-07-05",
+    "department": "Electrical",
+    "skills": [
+      "Git",
+      "MongoDB"
+    ],
+    "attendance": 91.96
+  },
+  {
+    "_id": "S042",
+    "name": "Benjamin White",
+    "dob": "2003-04-28",
+    "department": "Civil",
+    "skills": [
+      "SQL",
+      "Git"
+    ],
+    "attendance": 60.37
+  },
+  {
+    "_id": "S043",
+    "name": "Jessica Oneill",
+    "dob": "2002-05-28",
+    "department": "Electrical",
+    "skills": [
+      "MongoDB",
+      "C++"
+    ],
+    "attendance": 84.98
+  },
+  {
+    "_id": "S044",
+    "name": "Nicholas Turner",
+    "dob": "2003-08-05",
+    "department": "Computer Science",
+    "skills": [
+      "C++",
+      "SQL"
+    ],
+    "attendance": 72.17
+  },
+  {
+    "_id": "S045",
+    "name": "Joseph Brown",
+    "dob": "2005-07-23",
+    "department": "Electrical",
+    "skills": [
+      "JavaScript",
+      "C++"
+    ],
+    "attendance": 97.02
+  },
+  {
+    "_id": "S046",
+    "name": "Brandon Rios",
+    "dob": "2006-04-16",
+    "department": "Biotechnology",
+    "skills": [
+      "AutoCAD",
+      "Java"
+    ],
+    "attendance": 85.46
+  },
+  {
+    "_id": "S047",
+    "name": "Barbara Jones",
+    "dob": "2003-12-27",
+    "department": "Civil",
+    "skills": [
+      "Python",
+      "Research"
+    ],
+    "attendance": 77.09
+  },
+  {
+    "_id": "S048",
+    "name": "Ariana Ward",
+    "dob": "2001-10-05",
+    "department": "Biotechnology",
+    "skills": [
+      "C++",
+      "MongoDB"
+    ],
+    "attendance": 78.87
+  },
+  {
+    "_id": "S049",
+    "name": "Jennifer Obrien",
+    "dob": "2002-10-04",
+    "department": "Biotechnology",
+    "skills": [
+      "Java",
+      "Linux"
+    ],
+    "attendance": 87.72
+  },
+  {
+    "_id": "S050",
+    "name": "Karen Rodriguez",
+    "dob": "2003-01-09",
+    "department": "Civil",
+    "skills": [
+      "Research",
+      "MongoDB"
+    ],
+    "attendance": 81.16
+  },
+  {
+    "_id": "S051",
+    "name": "Jeremy Carrillo",
+    "dob": "2003-08-24",
+    "department": "Electrical",
+    "skills": [
+      "Java",
+      "AutoCAD"
+    ],
+    "attendance": 71.36
+  },
+  {
+    "_id": "S052",
+    "name": "Michael Garcia",
+    "dob": "2002-07-11",
+    "department": "Mechanical",
+    "skills": [
+      "Linux",
+      "JavaScript"
+    ],
+    "attendance": 72.98
+  },
+  {
+    "_id": "S053",
+    "name": "Tracey Young",
+    "dob": "2006-05-26",
+    "department": "Computer Science",
+    "skills": [
+      "Python",
+      "AutoCAD"
+    ],
+    "attendance": 75.98
+  },
+  {
+    "_id": "S054",
+    "name": "Sarah Kelly",
+    "dob": "2001-01-04",
+    "department": "Civil",
+    "skills": [
+      "MongoDB",
+      "Git"
+    ],
+    "attendance": 76.46
+  },
+  {
+    "_id": "S055",
+    "name": "Ashley Myers",
+    "dob": "2002-12-18",
+    "department": "Computer Science",
+    "skills": [
+      "Research",
+      "AutoCAD"
+    ],
+    "attendance": 95.26
+  },
+  {
+    "_id": "S056",
+    "name": "Danielle Rich",
+    "dob": "2007-03-10",
+    "department": "Computer Science",
+    "skills": [
+      "SQL",
+      "Linux"
+    ],
+    "attendance": 65.24
+  },
+  {
+    "_id": "S057",
+    "name": "Andrew Wilson",
+    "dob": "2004-03-02",
+    "department": "Biotechnology",
+    "skills": [
+      "C++",
+      "Linux"
+    ],
+    "attendance": 76.55
+  },
+  {
+    "_id": "S058",
+    "name": "David Taylor",
+    "dob": "2002-10-16",
+    "department": "Civil",
+    "skills": [
+      "Java",
+      "MongoDB"
+    ],
+    "attendance": 93.93
+  },
+  {
+    "_id": "S059",
+    "name": "Donna Morgan",
+    "dob": "2004-02-15",
+    "department": "Electrical",
+    "skills": [
+      "C++",
+      "SQL"
+    ],
+    "attendance": 90.67
+  },
+  {
+    "_id": "S060",
+    "name": "Anthony Wade",
+    "dob": "2005-09-23",
+    "department": "Civil",
+    "skills": [
+      "AutoCAD",
+      "C++"
+    ],
+    "attendance": 88.65
+  },
+  {
+    "_id": "S061",
+    "name": "Joshua Brandt",
+    "dob": "2005-05-11",
+    "department": "Computer Science",
+    "skills": [
+      "C++",
+      "AutoCAD"
+    ],
+    "attendance": 65.78
+  },
+  {
+    "_id": "S062",
+    "name": "David Jones",
+    "dob": "2002-12-27",
+    "department": "Civil",
+    "skills": [
+      "SQL",
+      "Git"
+    ],
+    "attendance": 78.69
+  },
+  {
+    "_id": "S063",
+    "name": "Samuel Miller",
+    "dob": "2001-06-03",
+    "department": "Biotechnology",
+    "skills": [
+      "Git",
+      "C++"
+    ],
+    "attendance": 79.59
+  },
+  {
+    "_id": "S064",
+    "name": "Elizabeth Reed",
+    "dob": "2001-01-16",
+    "department": "Computer Science",
+    "skills": [
+      "Java",
+      "Python"
+    ],
+    "attendance": 95.53
+  },
+  {
+    "_id": "S065",
+    "name": "Brian Russell",
+    "dob": "2006-07-31",
+    "department": "Mechanical",
+    "skills": [
+      "Python",
+      "Research"
+    ],
+    "attendance": 92.29
+  },
+  {
+    "_id": "S066",
+    "name": "Steven Booth",
+    "dob": "2006-09-23",
+    "department": "Computer Science",
+    "skills": [
+      "SQL",
+      "Git"
+    ],
+    "attendance": 90.52
+  },
+  {
+    "_id": "S067",
+    "name": "Stacy Avery",
+    "dob": "2003-05-11",
+    "department": "Computer Science",
+    "skills": [
+      "Linux",
+      "Research"
+    ],
+    "attendance": 91.09
+  },
+  {
+    "_id": "S068",
+    "name": "Larry Ramsey",
+    "dob": "2005-01-26",
+    "department": "Biotechnology",
+    "skills": [
+      "Research",
+      "JavaScript"
+    ],
+    "attendance": 67.25
+  },
+  {
+    "_id": "S069",
+    "name": "Christina Gordon",
+    "dob": "2001-02-13",
+    "department": "Computer Science",
+    "skills": [
+      "Research",
+      "MongoDB"
+    ],
+    "attendance": 86.27
+  },
+  {
+    "_id": "S070",
+    "name": "Brittany Church",
+    "dob": "2006-01-17",
+    "department": "Electrical",
+    "skills": [
+      "Linux",
+      "SQL"
+    ],
+    "attendance": 91.98
+  },
+  {
+    "_id": "S071",
+    "name": "Rhonda Obrien",
+    "dob": "2006-04-23",
+    "department": "Computer Science",
+    "skills": [
+      "SQL",
+      "Research"
+    ],
+    "attendance": 77.6
+  },
+  {
+    "_id": "S072",
+    "name": "Isaac Rivers",
+    "dob": "2004-10-19",
+    "department": "Civil",
+    "skills": [
+      "Git",
+      "MongoDB"
+    ],
+    "attendance": 74.86
+  },
+  {
+    "_id": "S073",
+    "name": "Julie Mckenzie",
+    "dob": "2001-04-18",
+    "department": "Civil",
+    "skills": [
+      "JavaScript",
+      "Research"
+    ],
+    "attendance": 86.03
+  },
+  {
+    "_id": "S074",
+    "name": "Donald Smith",
+    "dob": "2004-04-09",
+    "department": "Mechanical",
+    "skills": [
+      "C++",
+      "Linux"
+    ],
+    "attendance": 73.49
+  },
+  {
+    "_id": "S075",
+    "name": "Daniel Knight",
+    "dob": "2006-06-28",
+    "department": "Civil",
+    "skills": [
+      "AutoCAD",
+      "Research"
+    ],
+    "attendance": 62.36
+  },
+  {
+    "_id": "S076",
+    "name": "Rachel Maldonado",
+    "dob": "2001-06-16",
+    "department": "Civil",
+    "skills": [
+      "JavaScript",
+      "C++"
+    ],
+    "attendance": 79.73
+  },
+  {
+    "_id": "S077",
+    "name": "Patricia Scott",
+    "dob": "2000-07-22",
+    "department": "Electrical",
+    "skills": [
+      "Java",
+      "Git"
+    ],
+    "attendance": 74.69
+  },
+  {
+    "_id": "S078",
+    "name": "Vincent Norris",
+    "dob": "2001-03-27",
+    "department": "Mechanical",
+    "skills": [
+      "C++",
+      "Python"
+    ],
+    "attendance": 78.62
+  },
+  {
+    "_id": "S079",
+    "name": "David Rivera",
+    "dob": "2000-05-29",
+    "department": "Computer Science",
+    "skills": [
+      "Python",
+      "JavaScript"
+    ],
+    "attendance": 70.67
+  },
+  {
+    "_id": "S080",
+    "name": "Diane Phillips",
+    "dob": "2001-05-08",
+    "department": "Civil",
+    "skills": [
+      "Git",
+      "Java"
+    ],
+    "attendance": 62.46
+  },
+  {
+    "_id": "S081",
+    "name": "Elizabeth Cannon",
+    "dob": "2003-10-03",
+    "department": "Mechanical",
+    "skills": [
+      "Java",
+      "Git"
+    ],
+    "attendance": 94.84
+  },
+  {
+    "_id": "S082",
+    "name": "Ryan Flores",
+    "dob": "2004-03-31",
+    "department": "Civil",
+    "skills": [
+      "C++",
+      "Research"
+    ],
+    "attendance": 74.39
+  },
+  {
+    "_id": "S083",
+    "name": "Michelle Weber",
+    "dob": "2005-03-02",
+    "department": "Civil",
+    "skills": [
+      "SQL",
+      "AutoCAD"
+    ],
+    "attendance": 60.32
+  },
+  {
+    "_id": "S084",
+    "name": "Travis Johnson",
+    "dob": "2004-03-02",
+    "department": "Electrical",
+    "skills": [
+      "C++",
+      "Java"
+    ],
+    "attendance": 94.07
+  },
+  {
+    "_id": "S085",
+    "name": "Megan Taylor",
+    "dob": "2006-12-08",
+    "department": "Electrical",
+    "skills": [
+      "Git",
+      "MongoDB"
+    ],
+    "attendance": 64.61
+  },
+  {
+    "_id": "S086",
+    "name": "Brianna Moore",
+    "dob": "2004-08-03",
+    "department": "Mechanical",
+    "skills": [
+      "SQL",
+      "Linux"
+    ],
+    "attendance": 73.5
+  },
+  {
+    "_id": "S087",
+    "name": "Benjamin Lee",
+    "dob": "2002-09-09",
+    "department": "Electrical",
+    "skills": [
+      "JavaScript",
+      "Research"
+    ],
+    "attendance": 63.31
+  },
+  {
+    "_id": "S088",
+    "name": "Timothy Lee",
+    "dob": "2000-09-29",
+    "department": "Biotechnology",
+    "skills": [
+      "C++",
+      "SQL"
+    ],
+    "attendance": 85.31
+  },
+  {
+    "_id": "S089",
+    "name": "Alejandro Hart",
+    "dob": "2002-10-13",
+    "department": "Civil",
+    "skills": [
+      "Git",
+      "Research"
+    ],
+    "attendance": 82.57
+  },
+  {
+    "_id": "S090",
+    "name": "Cody Simmons",
+    "dob": "2003-01-17",
+    "department": "Mechanical",
+    "skills": [
+      "Research",
+      "JavaScript"
+    ],
+    "attendance": 63.18
+  },
+  {
+    "_id": "S091",
+    "name": "Logan Murphy",
+    "dob": "2006-04-30",
+    "department": "Civil",
+    "skills": [
+      "JavaScript",
+      "Java"
+    ],
+    "attendance": 93.66
+  },
+  {
+    "_id": "S092",
+    "name": "Justin Martinez",
+    "dob": "2004-06-20",
+    "department": "Electrical",
+    "skills": [
+      "MongoDB",
+      "JavaScript"
+    ],
+    "attendance": 84.04
+  },
+  {
+    "_id": "S093",
+    "name": "Chelsey Davis",
+    "dob": "2003-04-24",
+    "department": "Civil",
+    "skills": [
+      "C++",
+      "JavaScript"
+    ],
+    "attendance": 75.5
+  },
+  {
+    "_id": "S094",
+    "name": "Colleen Todd",
+    "dob": "2006-03-07",
+    "department": "Electrical",
+    "skills": [
+      "MongoDB",
+      "C++"
+    ],
+    "attendance": 63.55
+  },
+  {
+    "_id": "S095",
+    "name": "Taylor Webb",
+    "dob": "2003-05-04",
+    "department": "Computer Science",
+    "skills": [
+      "Linux",
+      "Python"
+    ],
+    "attendance": 82.91
+  },
+  {
+    "_id": "S096",
+    "name": "Nicole Phillips",
+    "dob": "2004-11-17",
+    "department": "Biotechnology",
+    "skills": [
+      "MongoDB",
+      "Java"
+    ],
+    "attendance": 99.95
+  },
+  {
+    "_id": "S097",
+    "name": "Rachael Harris",
+    "dob": "2004-10-24",
+    "department": "Civil",
+    "skills": [
+      "C++",
+      "Python"
+    ],
+    "attendance": 89.76
+  },
+  {
+    "_id": "S098",
+    "name": "Erin Harris",
+    "dob": "2002-11-21",
+    "department": "Biotechnology",
+    "skills": [
+      "AutoCAD",
+      "Python"
+    ],
+    "attendance": 85.33
+  },
+  {
+    "_id": "S099",
+    "name": "Kyle Lee",
+    "dob": "2002-12-13",
+    "department": "Mechanical",
+    "skills": [
+      "Python",
+      "JavaScript"
+    ],
+    "attendance": 69.62
+  },
+  {
+    "_id": "S100",
+    "name": "Carlos Bryant",
+    "dob": "2004-08-10",
+    "department": "Computer Science",
+    "skills": [
+      "MongoDB",
+      "JavaScript"
+    ],
+    "attendance": 91.74
+  }
+]

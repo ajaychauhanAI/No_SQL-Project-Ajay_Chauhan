@@ -1,0 +1,764 @@
+[
+  {
+    "_id": "F001",
+    "name": "Alexis Stone",
+    "department": "Mechanical",
+    "courses": [
+      "C014",
+      "C096"
+    ]
+  },
+  {
+    "_id": "F002",
+    "name": "Brooke Dorsey",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F003",
+    "name": "Kevin Booth",
+    "department": "Mechanical",
+    "courses": [
+      "C094"
+    ]
+  },
+  {
+    "_id": "F004",
+    "name": "Eduardo Mills",
+    "department": "Electrical",
+    "courses": []
+  },
+  {
+    "_id": "F005",
+    "name": "Kevin Horton",
+    "department": "Mechanical",
+    "courses": []
+  },
+  {
+    "_id": "F006",
+    "name": "Michele Hines",
+    "department": "Biotechnology",
+    "courses": [
+      "C005"
+    ]
+  },
+  {
+    "_id": "F007",
+    "name": "Joshua Wright",
+    "department": "Civil",
+    "courses": [
+      "C095"
+    ]
+  },
+  {
+    "_id": "F008",
+    "name": "Roberto Thompson",
+    "department": "Electrical",
+    "courses": [
+      "C074"
+    ]
+  },
+  {
+    "_id": "F009",
+    "name": "Julie Elliott",
+    "department": "Mechanical",
+    "courses": [
+      "C025"
+    ]
+  },
+  {
+    "_id": "F010",
+    "name": "Meghan Watson",
+    "department": "Computer Science",
+    "courses": [
+      "C077"
+    ]
+  },
+  {
+    "_id": "F011",
+    "name": "Christian Campbell",
+    "department": "Computer Science",
+    "courses": [
+      "C098"
+    ]
+  },
+  {
+    "_id": "F012",
+    "name": "Stephen Galvan",
+    "department": "Biotechnology",
+    "courses": [
+      "C046",
+      "C052"
+    ]
+  },
+  {
+    "_id": "F013",
+    "name": "Traci Edwards",
+    "department": "Electrical",
+    "courses": [
+      "C031"
+    ]
+  },
+  {
+    "_id": "F014",
+    "name": "Charles Cunningham",
+    "department": "Computer Science",
+    "courses": [
+      "C013",
+      "C027"
+    ]
+  },
+  {
+    "_id": "F015",
+    "name": "Kevin Murphy",
+    "department": "Biotechnology",
+    "courses": [
+      "C020",
+      "C040"
+    ]
+  },
+  {
+    "_id": "F016",
+    "name": "Justin House",
+    "department": "Mechanical",
+    "courses": []
+  },
+  {
+    "_id": "F017",
+    "name": "Maurice Farmer",
+    "department": "Computer Science",
+    "courses": []
+  },
+  {
+    "_id": "F018",
+    "name": "Rhonda George",
+    "department": "Computer Science",
+    "courses": []
+  },
+  {
+    "_id": "F019",
+    "name": "Shelly Sawyer",
+    "department": "Electrical",
+    "courses": [
+      "C065"
+    ]
+  },
+  {
+    "_id": "F020",
+    "name": "Paul Long",
+    "department": "Computer Science",
+    "courses": []
+  },
+  {
+    "_id": "F021",
+    "name": "Matthew Boyer",
+    "department": "Civil",
+    "courses": [
+      "C076"
+    ]
+  },
+  {
+    "_id": "F022",
+    "name": "Robin Johnson",
+    "department": "Electrical",
+    "courses": [
+      "C010",
+      "C053"
+    ]
+  },
+  {
+    "_id": "F023",
+    "name": "Robert Johnson",
+    "department": "Mechanical",
+    "courses": [
+      "C004",
+      "C089"
+    ]
+  },
+  {
+    "_id": "F024",
+    "name": "Diana Wilson",
+    "department": "Computer Science",
+    "courses": []
+  },
+  {
+    "_id": "F025",
+    "name": "Mr. Justin Taylor",
+    "department": "Mechanical",
+    "courses": []
+  },
+  {
+    "_id": "F026",
+    "name": "Kathryn Young",
+    "department": "Computer Science",
+    "courses": [
+      "C047",
+      "C100"
+    ]
+  },
+  {
+    "_id": "F027",
+    "name": "Theresa King",
+    "department": "Civil",
+    "courses": [
+      "C034"
+    ]
+  },
+  {
+    "_id": "F028",
+    "name": "Andrew Mcmahon",
+    "department": "Biotechnology",
+    "courses": [
+      "C030"
+    ]
+  },
+  {
+    "_id": "F029",
+    "name": "Charles Newton",
+    "department": "Computer Science",
+    "courses": [
+      "C006",
+      "C023",
+      "C028"
+    ]
+  },
+  {
+    "_id": "F030",
+    "name": "Ashlee Russo",
+    "department": "Mechanical",
+    "courses": [
+      "C022"
+    ]
+  },
+  {
+    "_id": "F031",
+    "name": "Jessica Campbell",
+    "department": "Computer Science",
+    "courses": [
+      "C072"
+    ]
+  },
+  {
+    "_id": "F032",
+    "name": "Julia Cole",
+    "department": "Computer Science",
+    "courses": [
+      "C007",
+      "C062",
+      "C079"
+    ]
+  },
+  {
+    "_id": "F033",
+    "name": "Allison Hobbs",
+    "department": "Computer Science",
+    "courses": [
+      "C075"
+    ]
+  },
+  {
+    "_id": "F034",
+    "name": "Jerome Benson",
+    "department": "Mechanical",
+    "courses": []
+  },
+  {
+    "_id": "F035",
+    "name": "Richard Zimmerman",
+    "department": "Electrical",
+    "courses": []
+  },
+  {
+    "_id": "F036",
+    "name": "Rebecca Thompson",
+    "department": "Mechanical",
+    "courses": [
+      "C015"
+    ]
+  },
+  {
+    "_id": "F037",
+    "name": "Jessica Owens",
+    "department": "Electrical",
+    "courses": []
+  },
+  {
+    "_id": "F038",
+    "name": "Mark Taylor",
+    "department": "Electrical",
+    "courses": []
+  },
+  {
+    "_id": "F039",
+    "name": "April Palmer",
+    "department": "Civil",
+    "courses": [
+      "C002",
+      "C032"
+    ]
+  },
+  {
+    "_id": "F040",
+    "name": "Darrell Velasquez",
+    "department": "Biotechnology",
+    "courses": [
+      "C021",
+      "C033",
+      "C086"
+    ]
+  },
+  {
+    "_id": "F041",
+    "name": "Lisa Taylor",
+    "department": "Mechanical",
+    "courses": []
+  },
+  {
+    "_id": "F042",
+    "name": "Michael Ramos",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F043",
+    "name": "Edwin Glover",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F044",
+    "name": "Lisa Moreno",
+    "department": "Mechanical",
+    "courses": []
+  },
+  {
+    "_id": "F045",
+    "name": "Lisa Burnett",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F046",
+    "name": "Ryan Sullivan",
+    "department": "Electrical",
+    "courses": []
+  },
+  {
+    "_id": "F047",
+    "name": "Joshua Reyes",
+    "department": "Electrical",
+    "courses": [
+      "C064"
+    ]
+  },
+  {
+    "_id": "F048",
+    "name": "Michael Poole",
+    "department": "Electrical",
+    "courses": [
+      "C003",
+      "C009",
+      "C084"
+    ]
+  },
+  {
+    "_id": "F049",
+    "name": "Kelly Huang",
+    "department": "Mechanical",
+    "courses": [
+      "C008",
+      "C093"
+    ]
+  },
+  {
+    "_id": "F050",
+    "name": "Erin Allen",
+    "department": "Electrical",
+    "courses": [
+      "C035",
+      "C050"
+    ]
+  },
+  {
+    "_id": "F051",
+    "name": "John Duran",
+    "department": "Civil",
+    "courses": [
+      "C041",
+      "C043",
+      "C071"
+    ]
+  },
+  {
+    "_id": "F052",
+    "name": "Joshua Brown",
+    "department": "Electrical",
+    "courses": []
+  },
+  {
+    "_id": "F053",
+    "name": "James Martin",
+    "department": "Mechanical",
+    "courses": [
+      "C029"
+    ]
+  },
+  {
+    "_id": "F054",
+    "name": "Karen Lane",
+    "department": "Electrical",
+    "courses": [
+      "C055"
+    ]
+  },
+  {
+    "_id": "F055",
+    "name": "Jessica Wiggins",
+    "department": "Biotechnology",
+    "courses": [
+      "C083"
+    ]
+  },
+  {
+    "_id": "F056",
+    "name": "Maxwell Harrison",
+    "department": "Electrical",
+    "courses": [
+      "C018",
+      "C085"
+    ]
+  },
+  {
+    "_id": "F057",
+    "name": "Thomas Lewis",
+    "department": "Civil",
+    "courses": [
+      "C045"
+    ]
+  },
+  {
+    "_id": "F058",
+    "name": "Mr. Roy Mills",
+    "department": "Civil",
+    "courses": [
+      "C070",
+      "C092"
+    ]
+  },
+  {
+    "_id": "F059",
+    "name": "James Kirby",
+    "department": "Biotechnology",
+    "courses": [
+      "C038",
+      "C088"
+    ]
+  },
+  {
+    "_id": "F060",
+    "name": "Ann Porter MD",
+    "department": "Computer Science",
+    "courses": [
+      "C048"
+    ]
+  },
+  {
+    "_id": "F061",
+    "name": "Daniel Allen",
+    "department": "Civil",
+    "courses": [
+      "C001",
+      "C061",
+      "C090"
+    ]
+  },
+  {
+    "_id": "F062",
+    "name": "Ann Johnson",
+    "department": "Electrical",
+    "courses": [
+      "C042"
+    ]
+  },
+  {
+    "_id": "F063",
+    "name": "Barry Brooks",
+    "department": "Mechanical",
+    "courses": [
+      "C066"
+    ]
+  },
+  {
+    "_id": "F064",
+    "name": "Taylor Steele",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F065",
+    "name": "Alyssa Lane",
+    "department": "Computer Science",
+    "courses": []
+  },
+  {
+    "_id": "F066",
+    "name": "Lori Hester",
+    "department": "Computer Science",
+    "courses": []
+  },
+  {
+    "_id": "F067",
+    "name": "Katie Brown",
+    "department": "Mechanical",
+    "courses": []
+  },
+  {
+    "_id": "F068",
+    "name": "Robert Smith",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F069",
+    "name": "Ryan Schneider",
+    "department": "Computer Science",
+    "courses": []
+  },
+  {
+    "_id": "F070",
+    "name": "Patricia Graham",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F071",
+    "name": "Michelle Reed",
+    "department": "Mechanical",
+    "courses": []
+  },
+  {
+    "_id": "F072",
+    "name": "Sandra Decker",
+    "department": "Civil",
+    "courses": [
+      "C039"
+    ]
+  },
+  {
+    "_id": "F073",
+    "name": "Jay Peters",
+    "department": "Biotechnology",
+    "courses": [
+      "C036",
+      "C037"
+    ]
+  },
+  {
+    "_id": "F074",
+    "name": "Linda Rodriguez",
+    "department": "Electrical",
+    "courses": [
+      "C097"
+    ]
+  },
+  {
+    "_id": "F075",
+    "name": "Robin West",
+    "department": "Civil",
+    "courses": [
+      "C024",
+      "C054"
+    ]
+  },
+  {
+    "_id": "F076",
+    "name": "Leonard Martinez",
+    "department": "Biotechnology",
+    "courses": [
+      "C056"
+    ]
+  },
+  {
+    "_id": "F077",
+    "name": "George Arroyo",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F078",
+    "name": "Jeremy Tran",
+    "department": "Civil",
+    "courses": []
+  },
+  {
+    "_id": "F079",
+    "name": "Laura Williams",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F080",
+    "name": "Melissa Miller",
+    "department": "Mechanical",
+    "courses": []
+  },
+  {
+    "_id": "F081",
+    "name": "Ms. Cynthia Stephens",
+    "department": "Computer Science",
+    "courses": []
+  },
+  {
+    "_id": "F082",
+    "name": "Evelyn Decker",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F083",
+    "name": "Matthew Hanna",
+    "department": "Computer Science",
+    "courses": [
+      "C012",
+      "C051",
+      "C091"
+    ]
+  },
+  {
+    "_id": "F084",
+    "name": "Michael Johnson",
+    "department": "Biotechnology",
+    "courses": [
+      "C011",
+      "C058",
+      "C099"
+    ]
+  },
+  {
+    "_id": "F085",
+    "name": "Lauren Baker",
+    "department": "Computer Science",
+    "courses": [
+      "C068"
+    ]
+  },
+  {
+    "_id": "F086",
+    "name": "Ashley Parker",
+    "department": "Civil",
+    "courses": [
+      "C060",
+      "C082"
+    ]
+  },
+  {
+    "_id": "F087",
+    "name": "William Adams",
+    "department": "Biotechnology",
+    "courses": [
+      "C059",
+      "C078"
+    ]
+  },
+  {
+    "_id": "F088",
+    "name": "Laura Flores",
+    "department": "Computer Science",
+    "courses": [
+      "C017"
+    ]
+  },
+  {
+    "_id": "F089",
+    "name": "Jacqueline Miller",
+    "department": "Mechanical",
+    "courses": [
+      "C057"
+    ]
+  },
+  {
+    "_id": "F090",
+    "name": "Cassandra Diaz",
+    "department": "Electrical",
+    "courses": [
+      "C019"
+    ]
+  },
+  {
+    "_id": "F091",
+    "name": "Brian Hernandez",
+    "department": "Computer Science",
+    "courses": []
+  },
+  {
+    "_id": "F092",
+    "name": "Doris Rivera",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F093",
+    "name": "Kristina Young",
+    "department": "Mechanical",
+    "courses": [
+      "C067"
+    ]
+  },
+  {
+    "_id": "F094",
+    "name": "Autumn White",
+    "department": "Electrical",
+    "courses": [
+      "C063",
+      "C073"
+    ]
+  },
+  {
+    "_id": "F095",
+    "name": "Tracy King",
+    "department": "Biotechnology",
+    "courses": []
+  },
+  {
+    "_id": "F096",
+    "name": "David Klein",
+    "department": "Electrical",
+    "courses": []
+  },
+  {
+    "_id": "F097",
+    "name": "Robert Smith",
+    "department": "Civil",
+    "courses": [
+      "C081",
+      "C087"
+    ]
+  },
+  {
+    "_id": "F098",
+    "name": "William Alexander",
+    "department": "Biotechnology",
+    "courses": [
+      "C080"
+    ]
+  },
+  {
+    "_id": "F099",
+    "name": "Jessica Black",
+    "department": "Civil",
+    "courses": [
+      "C016",
+      "C069"
+    ]
+  },
+  {
+    "_id": "F100",
+    "name": "Robert Lara",
+    "department": "Electrical",
+    "courses": [
+      "C026",
+      "C044",
+      "C049"
+    ]
+  }
+]

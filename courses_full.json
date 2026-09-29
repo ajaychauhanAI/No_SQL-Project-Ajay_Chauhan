@@ -1,0 +1,602 @@
+[
+  {
+    "_id": "C001",
+    "title": "Profit-focused high-level capability",
+    "credits": 3,
+    "faculty_id": "F061"
+  },
+  {
+    "_id": "C002",
+    "title": "Multi-lateral systemic success",
+    "credits": 2,
+    "faculty_id": "F039"
+  },
+  {
+    "_id": "C003",
+    "title": "Reduced 5thgeneration complexity",
+    "credits": 3,
+    "faculty_id": "F048"
+  },
+  {
+    "_id": "C004",
+    "title": "Enhanced real-time website",
+    "credits": 3,
+    "faculty_id": "F023"
+  },
+  {
+    "_id": "C005",
+    "title": "Streamlined scalable policy",
+    "credits": 2,
+    "faculty_id": "F006"
+  },
+  {
+    "_id": "C006",
+    "title": "Integrated fault-tolerant task-force",
+    "credits": 2,
+    "faculty_id": "F029"
+  },
+  {
+    "_id": "C007",
+    "title": "Organic asynchronous matrix",
+    "credits": 2,
+    "faculty_id": "F032"
+  },
+  {
+    "_id": "C008",
+    "title": "Progressive exuding ability",
+    "credits": 2,
+    "faculty_id": "F049"
+  },
+  {
+    "_id": "C009",
+    "title": "Universal analyzing utilization",
+    "credits": 3,
+    "faculty_id": "F048"
+  },
+  {
+    "_id": "C010",
+    "title": "Decentralized multi-tasking architecture",
+    "credits": 2,
+    "faculty_id": "F022"
+  },
+  {
+    "_id": "C011",
+    "title": "Cloned contextually-based strategy",
+    "credits": 2,
+    "faculty_id": "F084"
+  },
+  {
+    "_id": "C012",
+    "title": "Optional neutral workforce",
+    "credits": 2,
+    "faculty_id": "F083"
+  },
+  {
+    "_id": "C013",
+    "title": "Enhanced radical secured line",
+    "credits": 2,
+    "faculty_id": "F014"
+  },
+  {
+    "_id": "C014",
+    "title": "Cloned intermediate ability",
+    "credits": 2,
+    "faculty_id": "F001"
+  },
+  {
+    "_id": "C015",
+    "title": "Optional intermediate model",
+    "credits": 2,
+    "faculty_id": "F036"
+  },
+  {
+    "_id": "C016",
+    "title": "Adaptive clear-thinking paradigm",
+    "credits": 3,
+    "faculty_id": "F099"
+  },
+  {
+    "_id": "C017",
+    "title": "Configurable global framework",
+    "credits": 4,
+    "faculty_id": "F088"
+  },
+  {
+    "_id": "C018",
+    "title": "Switchable regional open system",
+    "credits": 3,
+    "faculty_id": "F056"
+  },
+  {
+    "_id": "C019",
+    "title": "Optional next generation frame",
+    "credits": 2,
+    "faculty_id": "F090"
+  },
+  {
+    "_id": "C020",
+    "title": "De-engineered well-modulated installation",
+    "credits": 2,
+    "faculty_id": "F015"
+  },
+  {
+    "_id": "C021",
+    "title": "Triple-buffered cohesive frame",
+    "credits": 3,
+    "faculty_id": "F040"
+  },
+  {
+    "_id": "C022",
+    "title": "Open-architected tangible protocol",
+    "credits": 3,
+    "faculty_id": "F030"
+  },
+  {
+    "_id": "C023",
+    "title": "Proactive methodical architecture",
+    "credits": 3,
+    "faculty_id": "F029"
+  },
+  {
+    "_id": "C024",
+    "title": "Proactive optimizing initiative",
+    "credits": 2,
+    "faculty_id": "F075"
+  },
+  {
+    "_id": "C025",
+    "title": "Decentralized multimedia Local Area Network",
+    "credits": 2,
+    "faculty_id": "F009"
+  },
+  {
+    "_id": "C026",
+    "title": "Configurable fresh-thinking analyzer",
+    "credits": 2,
+    "faculty_id": "F100"
+  },
+  {
+    "_id": "C027",
+    "title": "Multi-channeled mobile hardware",
+    "credits": 3,
+    "faculty_id": "F014"
+  },
+  {
+    "_id": "C028",
+    "title": "Persevering asynchronous hub",
+    "credits": 4,
+    "faculty_id": "F029"
+  },
+  {
+    "_id": "C029",
+    "title": "Focused user-facing paradigm",
+    "credits": 3,
+    "faculty_id": "F053"
+  },
+  {
+    "_id": "C030",
+    "title": "Digitized even-keeled Internet solution",
+    "credits": 3,
+    "faculty_id": "F028"
+  },
+  {
+    "_id": "C031",
+    "title": "Synergized explicit circuit",
+    "credits": 4,
+    "faculty_id": "F013"
+  },
+  {
+    "_id": "C032",
+    "title": "Enhanced full-range open architecture",
+    "credits": 2,
+    "faculty_id": "F039"
+  },
+  {
+    "_id": "C033",
+    "title": "Enhanced user-facing alliance",
+    "credits": 2,
+    "faculty_id": "F040"
+  },
+  {
+    "_id": "C034",
+    "title": "Multi-channeled uniform infrastructure",
+    "credits": 3,
+    "faculty_id": "F027"
+  },
+  {
+    "_id": "C035",
+    "title": "Fully-configurable responsive solution",
+    "credits": 3,
+    "faculty_id": "F050"
+  },
+  {
+    "_id": "C036",
+    "title": "Reduced 3rdgeneration knowledgebase",
+    "credits": 3,
+    "faculty_id": "F073"
+  },
+  {
+    "_id": "C037",
+    "title": "Compatible global website",
+    "credits": 4,
+    "faculty_id": "F073"
+  },
+  {
+    "_id": "C038",
+    "title": "Quality-focused local leverage",
+    "credits": 4,
+    "faculty_id": "F059"
+  },
+  {
+    "_id": "C039",
+    "title": "Focused client-server knowledge user",
+    "credits": 3,
+    "faculty_id": "F072"
+  },
+  {
+    "_id": "C040",
+    "title": "Focused multi-state encoding",
+    "credits": 2,
+    "faculty_id": "F015"
+  },
+  {
+    "_id": "C041",
+    "title": "Innovative hybrid concept",
+    "credits": 4,
+    "faculty_id": "F051"
+  },
+  {
+    "_id": "C042",
+    "title": "Automated global conglomeration",
+    "credits": 4,
+    "faculty_id": "F062"
+  },
+  {
+    "_id": "C043",
+    "title": "Total tangible moderator",
+    "credits": 4,
+    "faculty_id": "F051"
+  },
+  {
+    "_id": "C044",
+    "title": "Cloned asymmetric synergy",
+    "credits": 3,
+    "faculty_id": "F100"
+  },
+  {
+    "_id": "C045",
+    "title": "De-engineered static throughput",
+    "credits": 2,
+    "faculty_id": "F057"
+  },
+  {
+    "_id": "C046",
+    "title": "Sharable responsive customer loyalty",
+    "credits": 3,
+    "faculty_id": "F012"
+  },
+  {
+    "_id": "C047",
+    "title": "Fully-configurable empowering data-warehouse",
+    "credits": 4,
+    "faculty_id": "F026"
+  },
+  {
+    "_id": "C048",
+    "title": "Persistent static migration",
+    "credits": 3,
+    "faculty_id": "F060"
+  },
+  {
+    "_id": "C049",
+    "title": "Monitored bottom-line capability",
+    "credits": 2,
+    "faculty_id": "F100"
+  },
+  {
+    "_id": "C050",
+    "title": "Innovative mobile process improvement",
+    "credits": 3,
+    "faculty_id": "F050"
+  },
+  {
+    "_id": "C051",
+    "title": "Focused secondary frame",
+    "credits": 2,
+    "faculty_id": "F083"
+  },
+  {
+    "_id": "C052",
+    "title": "Cross-group reciprocal algorithm",
+    "credits": 2,
+    "faculty_id": "F012"
+  },
+  {
+    "_id": "C053",
+    "title": "Seamless motivating policy",
+    "credits": 4,
+    "faculty_id": "F022"
+  },
+  {
+    "_id": "C054",
+    "title": "Seamless high-level installation",
+    "credits": 3,
+    "faculty_id": "F075"
+  },
+  {
+    "_id": "C055",
+    "title": "Down-sized static strategy",
+    "credits": 4,
+    "faculty_id": "F054"
+  },
+  {
+    "_id": "C056",
+    "title": "Synergized bandwidth-monitored parallelism",
+    "credits": 2,
+    "faculty_id": "F076"
+  },
+  {
+    "_id": "C057",
+    "title": "Configurable global info-mediaries",
+    "credits": 3,
+    "faculty_id": "F089"
+  },
+  {
+    "_id": "C058",
+    "title": "Horizontal attitude-oriented knowledgebase",
+    "credits": 2,
+    "faculty_id": "F084"
+  },
+  {
+    "_id": "C059",
+    "title": "Customer-focused cohesive info-mediaries",
+    "credits": 3,
+    "faculty_id": "F087"
+  },
+  {
+    "_id": "C060",
+    "title": "User-centric upward-trending functionalities",
+    "credits": 4,
+    "faculty_id": "F086"
+  },
+  {
+    "_id": "C061",
+    "title": "Advanced zero tolerance structure",
+    "credits": 3,
+    "faculty_id": "F061"
+  },
+  {
+    "_id": "C062",
+    "title": "Realigned scalable extranet",
+    "credits": 3,
+    "faculty_id": "F032"
+  },
+  {
+    "_id": "C063",
+    "title": "Object-based regional conglomeration",
+    "credits": 4,
+    "faculty_id": "F094"
+  },
+  {
+    "_id": "C064",
+    "title": "Balanced national function",
+    "credits": 4,
+    "faculty_id": "F047"
+  },
+  {
+    "_id": "C065",
+    "title": "Seamless upward-trending project",
+    "credits": 3,
+    "faculty_id": "F019"
+  },
+  {
+    "_id": "C066",
+    "title": "Centralized demand-driven framework",
+    "credits": 4,
+    "faculty_id": "F063"
+  },
+  {
+    "_id": "C067",
+    "title": "Streamlined zero administration strategy",
+    "credits": 2,
+    "faculty_id": "F093"
+  },
+  {
+    "_id": "C068",
+    "title": "Organic incremental task-force",
+    "credits": 2,
+    "faculty_id": "F085"
+  },
+  {
+    "_id": "C069",
+    "title": "Enhanced intangible emulation",
+    "credits": 3,
+    "faculty_id": "F099"
+  },
+  {
+    "_id": "C070",
+    "title": "Reverse-engineered well-modulated portal",
+    "credits": 3,
+    "faculty_id": "F058"
+  },
+  {
+    "_id": "C071",
+    "title": "Balanced asynchronous framework",
+    "credits": 3,
+    "faculty_id": "F051"
+  },
+  {
+    "_id": "C072",
+    "title": "Intuitive actuating superstructure",
+    "credits": 2,
+    "faculty_id": "F031"
+  },
+  {
+    "_id": "C073",
+    "title": "Multi-tiered tertiary orchestration",
+    "credits": 3,
+    "faculty_id": "F094"
+  },
+  {
+    "_id": "C074",
+    "title": "Monitored solution-oriented frame",
+    "credits": 4,
+    "faculty_id": "F008"
+  },
+  {
+    "_id": "C075",
+    "title": "Reduced optimizing conglomeration",
+    "credits": 2,
+    "faculty_id": "F033"
+  },
+  {
+    "_id": "C076",
+    "title": "Organized content-based concept",
+    "credits": 2,
+    "faculty_id": "F021"
+  },
+  {
+    "_id": "C077",
+    "title": "Balanced non-volatile parallelism",
+    "credits": 3,
+    "faculty_id": "F010"
+  },
+  {
+    "_id": "C078",
+    "title": "Optional contextually-based flexibility",
+    "credits": 4,
+    "faculty_id": "F087"
+  },
+  {
+    "_id": "C079",
+    "title": "Fully-configurable reciprocal installation",
+    "credits": 2,
+    "faculty_id": "F032"
+  },
+  {
+    "_id": "C080",
+    "title": "Customizable client-driven secured line",
+    "credits": 2,
+    "faculty_id": "F098"
+  },
+  {
+    "_id": "C081",
+    "title": "User-centric bifurcated matrices",
+    "credits": 3,
+    "faculty_id": "F097"
+  },
+  {
+    "_id": "C082",
+    "title": "Focused attitude-oriented product",
+    "credits": 2,
+    "faculty_id": "F086"
+  },
+  {
+    "_id": "C083",
+    "title": "Advanced analyzing budgetary management",
+    "credits": 2,
+    "faculty_id": "F055"
+  },
+  {
+    "_id": "C084",
+    "title": "Reactive neutral adapter",
+    "credits": 2,
+    "faculty_id": "F048"
+  },
+  {
+    "_id": "C085",
+    "title": "Digitized disintermediate orchestration",
+    "credits": 3,
+    "faculty_id": "F056"
+  },
+  {
+    "_id": "C086",
+    "title": "Assimilated even-keeled strategy",
+    "credits": 3,
+    "faculty_id": "F040"
+  },
+  {
+    "_id": "C087",
+    "title": "Sharable bifurcated paradigm",
+    "credits": 2,
+    "faculty_id": "F097"
+  },
+  {
+    "_id": "C088",
+    "title": "Triple-buffered eco-centric implementation",
+    "credits": 4,
+    "faculty_id": "F059"
+  },
+  {
+    "_id": "C089",
+    "title": "Total intangible toolset",
+    "credits": 4,
+    "faculty_id": "F023"
+  },
+  {
+    "_id": "C090",
+    "title": "Configurable scalable data-warehouse",
+    "credits": 3,
+    "faculty_id": "F061"
+  },
+  {
+    "_id": "C091",
+    "title": "Centralized 3rdgeneration focus group",
+    "credits": 4,
+    "faculty_id": "F083"
+  },
+  {
+    "_id": "C092",
+    "title": "Networked 24/7 archive",
+    "credits": 2,
+    "faculty_id": "F058"
+  },
+  {
+    "_id": "C093",
+    "title": "Right-sized discrete projection",
+    "credits": 3,
+    "faculty_id": "F049"
+  },
+  {
+    "_id": "C094",
+    "title": "Streamlined bandwidth-monitored structure",
+    "credits": 4,
+    "faculty_id": "F003"
+  },
+  {
+    "_id": "C095",
+    "title": "Organic optimal product",
+    "credits": 2,
+    "faculty_id": "F007"
+  },
+  {
+    "_id": "C096",
+    "title": "User-centric grid-enabled moderator",
+    "credits": 3,
+    "faculty_id": "F001"
+  },
+  {
+    "_id": "C097",
+    "title": "Fundamental optimal initiative",
+    "credits": 3,
+    "faculty_id": "F074"
+  },
+  {
+    "_id": "C098",
+    "title": "Automated scalable benchmark",
+    "credits": 4,
+    "faculty_id": "F011"
+  },
+  {
+    "_id": "C099",
+    "title": "Total maximized toolset",
+    "credits": 3,
+    "faculty_id": "F084"
+  },
+  {
+    "_id": "C100",
+    "title": "Networked attitude-oriented pricing structure",
+    "credits": 3,
+    "faculty_id": "F026"
+  }
+]

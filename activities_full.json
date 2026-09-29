@@ -1,0 +1,802 @@
+[
+  {
+    "_id": "A001",
+    "student_id": "S031",
+    "type": "Hackathon",
+    "name": "Streamline Frictionless Convergence",
+    "position": "Participant",
+    "year": 2024
+  },
+  {
+    "_id": "A002",
+    "student_id": "S012",
+    "type": "Hackathon",
+    "name": "Drive World-Class Partnerships",
+    "position": "Participant",
+    "year": 2024
+  },
+  {
+    "_id": "A003",
+    "student_id": "S019",
+    "type": "Seminar",
+    "name": "Mesh Transparent Deliverables",
+    "position": "Winner",
+    "year": 2023
+  },
+  {
+    "_id": "A004",
+    "student_id": "S042",
+    "type": "Workshop",
+    "name": "Disintermediate Clicks-And-Mortar Niches",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A005",
+    "student_id": "S033",
+    "type": "Workshop",
+    "name": "Revolutionize Mission-Critical Synergies",
+    "position": "Runner-up",
+    "year": 2024
+  },
+  {
+    "_id": "A006",
+    "student_id": "S029",
+    "type": "Workshop",
+    "name": "Enhance Dot-Com Schemas",
+    "position": "Runner-up",
+    "year": 2023
+  },
+  {
+    "_id": "A007",
+    "student_id": "S056",
+    "type": "Seminar",
+    "name": "Transition Global Communities",
+    "position": "Runner-up",
+    "year": 2023
+  },
+  {
+    "_id": "A008",
+    "student_id": "S099",
+    "type": "Seminar",
+    "name": "Integrate Dot-Com Architectures",
+    "position": "Finalist",
+    "year": 2022
+  },
+  {
+    "_id": "A009",
+    "student_id": "S087",
+    "type": "Hackathon",
+    "name": "Architect Dot-Com Users",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A010",
+    "student_id": "S032",
+    "type": "Seminar",
+    "name": "Integrate B2C Functionalities",
+    "position": "Participant",
+    "year": 2023
+  },
+  {
+    "_id": "A011",
+    "student_id": "S093",
+    "type": "Seminar",
+    "name": "Aggregate Distributed E-Tailers",
+    "position": "Winner",
+    "year": 2024
+  },
+  {
+    "_id": "A012",
+    "student_id": "S059",
+    "type": "Seminar",
+    "name": "Monetize 24/7 Synergies",
+    "position": "Participant",
+    "year": 2022
+  },
+  {
+    "_id": "A013",
+    "student_id": "S018",
+    "type": "Seminar",
+    "name": "Envisioneer Vertical Schemas",
+    "position": "Runner-up",
+    "year": 2022
+  },
+  {
+    "_id": "A014",
+    "student_id": "S019",
+    "type": "Workshop",
+    "name": "Incubate Intuitive Convergence",
+    "position": "Participant",
+    "year": 2022
+  },
+  {
+    "_id": "A015",
+    "student_id": "S033",
+    "type": "Hackathon",
+    "name": "Benchmark Proactive Bandwidth",
+    "position": "Participant",
+    "year": 2024
+  },
+  {
+    "_id": "A016",
+    "student_id": "S064",
+    "type": "Workshop",
+    "name": "Strategize Enterprise Functionalities",
+    "position": "Runner-up",
+    "year": 2022
+  },
+  {
+    "_id": "A017",
+    "student_id": "S021",
+    "type": "Hackathon",
+    "name": "Expedite Customized Bandwidth",
+    "position": "Participant",
+    "year": 2022
+  },
+  {
+    "_id": "A018",
+    "student_id": "S092",
+    "type": "Hackathon",
+    "name": "Scale Real-Time Eyeballs",
+    "position": "Winner",
+    "year": 2022
+  },
+  {
+    "_id": "A019",
+    "student_id": "S056",
+    "type": "Workshop",
+    "name": "Mesh Web-Enabled Deliverables",
+    "position": "Winner",
+    "year": 2024
+  },
+  {
+    "_id": "A020",
+    "student_id": "S086",
+    "type": "Hackathon",
+    "name": "Architect Collaborative Eyeballs",
+    "position": "Participant",
+    "year": 2024
+  },
+  {
+    "_id": "A021",
+    "student_id": "S043",
+    "type": "Hackathon",
+    "name": "Re-Contextualize Real-Time Eyeballs",
+    "position": "Finalist",
+    "year": 2022
+  },
+  {
+    "_id": "A022",
+    "student_id": "S095",
+    "type": "Hackathon",
+    "name": "Reinvent Out-Of-The-Box Communities",
+    "position": "Participant",
+    "year": 2022
+  },
+  {
+    "_id": "A023",
+    "student_id": "S006",
+    "type": "Workshop",
+    "name": "Envisioneer Revolutionary Interfaces",
+    "position": "Finalist",
+    "year": 2022
+  },
+  {
+    "_id": "A024",
+    "student_id": "S048",
+    "type": "Hackathon",
+    "name": "Integrate Interactive Channels",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A025",
+    "student_id": "S069",
+    "type": "Seminar",
+    "name": "Innovate Ubiquitous Technologies",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A026",
+    "student_id": "S046",
+    "type": "Seminar",
+    "name": "Target Innovative Partnerships",
+    "position": "Winner",
+    "year": 2022
+  },
+  {
+    "_id": "A027",
+    "student_id": "S016",
+    "type": "Workshop",
+    "name": "Generate Cross-Platform Infrastructures",
+    "position": "Runner-up",
+    "year": 2022
+  },
+  {
+    "_id": "A028",
+    "student_id": "S021",
+    "type": "Hackathon",
+    "name": "Innovate Intuitive Info-Mediaries",
+    "position": "Participant",
+    "year": 2024
+  },
+  {
+    "_id": "A029",
+    "student_id": "S003",
+    "type": "Seminar",
+    "name": "Integrate Wireless E-Business",
+    "position": "Winner",
+    "year": 2024
+  },
+  {
+    "_id": "A030",
+    "student_id": "S034",
+    "type": "Hackathon",
+    "name": "Drive Plug-And-Play Applications",
+    "position": "Runner-up",
+    "year": 2023
+  },
+  {
+    "_id": "A031",
+    "student_id": "S048",
+    "type": "Hackathon",
+    "name": "Optimize Granular Relationships",
+    "position": "Winner",
+    "year": 2022
+  },
+  {
+    "_id": "A032",
+    "student_id": "S079",
+    "type": "Hackathon",
+    "name": "Enable Cross-Platform E-Services",
+    "position": "Runner-up",
+    "year": 2023
+  },
+  {
+    "_id": "A033",
+    "student_id": "S045",
+    "type": "Hackathon",
+    "name": "Maximize Cross-Platform Supply-Chains",
+    "position": "Winner",
+    "year": 2024
+  },
+  {
+    "_id": "A034",
+    "student_id": "S039",
+    "type": "Hackathon",
+    "name": "Aggregate Cross-Platform Convergence",
+    "position": "Finalist",
+    "year": 2024
+  },
+  {
+    "_id": "A035",
+    "student_id": "S095",
+    "type": "Hackathon",
+    "name": "Mesh Robust Infrastructures",
+    "position": "Winner",
+    "year": 2023
+  },
+  {
+    "_id": "A036",
+    "student_id": "S067",
+    "type": "Workshop",
+    "name": "Enable Holistic Roi",
+    "position": "Participant",
+    "year": 2022
+  },
+  {
+    "_id": "A037",
+    "student_id": "S037",
+    "type": "Seminar",
+    "name": "Re-Contextualize Next-Generation Vortals",
+    "position": "Finalist",
+    "year": 2022
+  },
+  {
+    "_id": "A038",
+    "student_id": "S035",
+    "type": "Seminar",
+    "name": "Iterate Magnetic Portals",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A039",
+    "student_id": "S042",
+    "type": "Seminar",
+    "name": "Transition Rich Deliverables",
+    "position": "Winner",
+    "year": 2022
+  },
+  {
+    "_id": "A040",
+    "student_id": "S007",
+    "type": "Hackathon",
+    "name": "Benchmark Cutting-Edge Action-Items",
+    "position": "Participant",
+    "year": 2024
+  },
+  {
+    "_id": "A041",
+    "student_id": "S048",
+    "type": "Hackathon",
+    "name": "Transform Mission-Critical Networks",
+    "position": "Winner",
+    "year": 2022
+  },
+  {
+    "_id": "A042",
+    "student_id": "S030",
+    "type": "Workshop",
+    "name": "Orchestrate E-Business Metrics",
+    "position": "Winner",
+    "year": 2024
+  },
+  {
+    "_id": "A043",
+    "student_id": "S072",
+    "type": "Seminar",
+    "name": "Productize 24/7 Platforms",
+    "position": "Finalist",
+    "year": 2024
+  },
+  {
+    "_id": "A044",
+    "student_id": "S011",
+    "type": "Hackathon",
+    "name": "Morph User-Centric Communities",
+    "position": "Finalist",
+    "year": 2022
+  },
+  {
+    "_id": "A045",
+    "student_id": "S063",
+    "type": "Workshop",
+    "name": "Embrace Cross-Media Info-Mediaries",
+    "position": "Finalist",
+    "year": 2022
+  },
+  {
+    "_id": "A046",
+    "student_id": "S063",
+    "type": "Workshop",
+    "name": "Integrate Seamless Niches",
+    "position": "Finalist",
+    "year": 2022
+  },
+  {
+    "_id": "A047",
+    "student_id": "S100",
+    "type": "Seminar",
+    "name": "Target Best-Of-Breed Relationships",
+    "position": "Finalist",
+    "year": 2022
+  },
+  {
+    "_id": "A048",
+    "student_id": "S035",
+    "type": "Seminar",
+    "name": "Facilitate Global Solutions",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A049",
+    "student_id": "S009",
+    "type": "Workshop",
+    "name": "Iterate Front-End Convergence",
+    "position": "Runner-up",
+    "year": 2022
+  },
+  {
+    "_id": "A050",
+    "student_id": "S026",
+    "type": "Hackathon",
+    "name": "Envisioneer B2B Communities",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A051",
+    "student_id": "S036",
+    "type": "Seminar",
+    "name": "Repurpose Ubiquitous Relationships",
+    "position": "Winner",
+    "year": 2022
+  },
+  {
+    "_id": "A052",
+    "student_id": "S095",
+    "type": "Seminar",
+    "name": "Cultivate Revolutionary Content",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A053",
+    "student_id": "S046",
+    "type": "Seminar",
+    "name": "Matrix 24/7 Relationships",
+    "position": "Participant",
+    "year": 2023
+  },
+  {
+    "_id": "A054",
+    "student_id": "S008",
+    "type": "Hackathon",
+    "name": "E-Enable Proactive Supply-Chains",
+    "position": "Winner",
+    "year": 2022
+  },
+  {
+    "_id": "A055",
+    "student_id": "S044",
+    "type": "Workshop",
+    "name": "Enable Compelling E-Services",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A056",
+    "student_id": "S013",
+    "type": "Seminar",
+    "name": "Architect E-Business Platforms",
+    "position": "Winner",
+    "year": 2023
+  },
+  {
+    "_id": "A057",
+    "student_id": "S005",
+    "type": "Workshop",
+    "name": "Scale Mission-Critical Niches",
+    "position": "Finalist",
+    "year": 2024
+  },
+  {
+    "_id": "A058",
+    "student_id": "S051",
+    "type": "Seminar",
+    "name": "Syndicate Innovative Relationships",
+    "position": "Runner-up",
+    "year": 2024
+  },
+  {
+    "_id": "A059",
+    "student_id": "S028",
+    "type": "Hackathon",
+    "name": "Drive Open-Source Communities",
+    "position": "Finalist",
+    "year": 2024
+  },
+  {
+    "_id": "A060",
+    "student_id": "S020",
+    "type": "Hackathon",
+    "name": "Drive Dynamic Networks",
+    "position": "Participant",
+    "year": 2023
+  },
+  {
+    "_id": "A061",
+    "student_id": "S054",
+    "type": "Seminar",
+    "name": "Brand Collaborative E-Commerce",
+    "position": "Participant",
+    "year": 2024
+  },
+  {
+    "_id": "A062",
+    "student_id": "S078",
+    "type": "Seminar",
+    "name": "Visualize Web-Enabled Paradigms",
+    "position": "Participant",
+    "year": 2024
+  },
+  {
+    "_id": "A063",
+    "student_id": "S035",
+    "type": "Workshop",
+    "name": "Embrace B2B E-Business",
+    "position": "Winner",
+    "year": 2023
+  },
+  {
+    "_id": "A064",
+    "student_id": "S088",
+    "type": "Hackathon",
+    "name": "Aggregate End-To-End Architectures",
+    "position": "Finalist",
+    "year": 2024
+  },
+  {
+    "_id": "A065",
+    "student_id": "S061",
+    "type": "Seminar",
+    "name": "Iterate Killer Relationships",
+    "position": "Winner",
+    "year": 2023
+  },
+  {
+    "_id": "A066",
+    "student_id": "S069",
+    "type": "Workshop",
+    "name": "Extend Open-Source Solutions",
+    "position": "Runner-up",
+    "year": 2022
+  },
+  {
+    "_id": "A067",
+    "student_id": "S072",
+    "type": "Workshop",
+    "name": "Matrix 24/7 Architectures",
+    "position": "Runner-up",
+    "year": 2024
+  },
+  {
+    "_id": "A068",
+    "student_id": "S091",
+    "type": "Workshop",
+    "name": "Enhance 24/7 Users",
+    "position": "Participant",
+    "year": 2022
+  },
+  {
+    "_id": "A069",
+    "student_id": "S010",
+    "type": "Seminar",
+    "name": "Benchmark Transparent Infrastructures",
+    "position": "Participant",
+    "year": 2023
+  },
+  {
+    "_id": "A070",
+    "student_id": "S011",
+    "type": "Workshop",
+    "name": "Cultivate Dynamic Web Services",
+    "position": "Runner-up",
+    "year": 2024
+  },
+  {
+    "_id": "A071",
+    "student_id": "S091",
+    "type": "Workshop",
+    "name": "Expedite Customized Methodologies",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A072",
+    "student_id": "S013",
+    "type": "Seminar",
+    "name": "Expedite Viral Interfaces",
+    "position": "Winner",
+    "year": 2023
+  },
+  {
+    "_id": "A073",
+    "student_id": "S065",
+    "type": "Hackathon",
+    "name": "Transition Plug-And-Play Channels",
+    "position": "Winner",
+    "year": 2024
+  },
+  {
+    "_id": "A074",
+    "student_id": "S029",
+    "type": "Workshop",
+    "name": "Whiteboard Interactive Niches",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A075",
+    "student_id": "S047",
+    "type": "Workshop",
+    "name": "Redefine Interactive Markets",
+    "position": "Finalist",
+    "year": 2022
+  },
+  {
+    "_id": "A076",
+    "student_id": "S029",
+    "type": "Hackathon",
+    "name": "Maximize Best-Of-Breed E-Business",
+    "position": "Winner",
+    "year": 2022
+  },
+  {
+    "_id": "A077",
+    "student_id": "S033",
+    "type": "Workshop",
+    "name": "Transition Synergistic Methodologies",
+    "position": "Participant",
+    "year": 2024
+  },
+  {
+    "_id": "A078",
+    "student_id": "S077",
+    "type": "Hackathon",
+    "name": "Repurpose Wireless E-Business",
+    "position": "Winner",
+    "year": 2023
+  },
+  {
+    "_id": "A079",
+    "student_id": "S037",
+    "type": "Hackathon",
+    "name": "Disintermediate Intuitive Functionalities",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A080",
+    "student_id": "S074",
+    "type": "Hackathon",
+    "name": "Streamline Integrated Action-Items",
+    "position": "Runner-up",
+    "year": 2024
+  },
+  {
+    "_id": "A081",
+    "student_id": "S061",
+    "type": "Workshop",
+    "name": "Harness Cutting-Edge Models",
+    "position": "Winner",
+    "year": 2022
+  },
+  {
+    "_id": "A082",
+    "student_id": "S016",
+    "type": "Seminar",
+    "name": "Incentivize Next-Generation Experiences",
+    "position": "Participant",
+    "year": 2024
+  },
+  {
+    "_id": "A083",
+    "student_id": "S038",
+    "type": "Seminar",
+    "name": "Seize Vertical Bandwidth",
+    "position": "Finalist",
+    "year": 2023
+  },
+  {
+    "_id": "A084",
+    "student_id": "S060",
+    "type": "Workshop",
+    "name": "Extend Transparent Technologies",
+    "position": "Runner-up",
+    "year": 2024
+  },
+  {
+    "_id": "A085",
+    "student_id": "S012",
+    "type": "Hackathon",
+    "name": "Scale Revolutionary Portals",
+    "position": "Winner",
+    "year": 2024
+  },
+  {
+    "_id": "A086",
+    "student_id": "S004",
+    "type": "Workshop",
+    "name": "Orchestrate Cross-Media Portals",
+    "position": "Runner-up",
+    "year": 2023
+  },
+  {
+    "_id": "A087",
+    "student_id": "S078",
+    "type": "Seminar",
+    "name": "Architect Strategic Technologies",
+    "position": "Participant",
+    "year": 2023
+  },
+  {
+    "_id": "A088",
+    "student_id": "S092",
+    "type": "Hackathon",
+    "name": "Implement Bleeding-Edge Metrics",
+    "position": "Runner-up",
+    "year": 2023
+  },
+  {
+    "_id": "A089",
+    "student_id": "S020",
+    "type": "Seminar",
+    "name": "Exploit Wireless Systems",
+    "position": "Runner-up",
+    "year": 2024
+  },
+  {
+    "_id": "A090",
+    "student_id": "S077",
+    "type": "Seminar",
+    "name": "Innovate Front-End Mindshare",
+    "position": "Runner-up",
+    "year": 2022
+  },
+  {
+    "_id": "A091",
+    "student_id": "S064",
+    "type": "Seminar",
+    "name": "Enable Proactive Eyeballs",
+    "position": "Participant",
+    "year": 2023
+  },
+  {
+    "_id": "A092",
+    "student_id": "S051",
+    "type": "Seminar",
+    "name": "Maximize Seamless Deliverables",
+    "position": "Finalist",
+    "year": 2024
+  },
+  {
+    "_id": "A093",
+    "student_id": "S029",
+    "type": "Workshop",
+    "name": "Architect Leading-Edge Networks",
+    "position": "Runner-up",
+    "year": 2024
+  },
+  {
+    "_id": "A094",
+    "student_id": "S070",
+    "type": "Workshop",
+    "name": "Empower Compelling E-Business",
+    "position": "Runner-up",
+    "year": 2024
+  },
+  {
+    "_id": "A095",
+    "student_id": "S100",
+    "type": "Hackathon",
+    "name": "Visualize Cross-Media Channels",
+    "position": "Runner-up",
+    "year": 2024
+  },
+  {
+    "_id": "A096",
+    "student_id": "S016",
+    "type": "Seminar",
+    "name": "Engineer 24/365 Metrics",
+    "position": "Participant",
+    "year": 2023
+  },
+  {
+    "_id": "A097",
+    "student_id": "S023",
+    "type": "Hackathon",
+    "name": "Brand Impactful Web-Readiness",
+    "position": "Finalist",
+    "year": 2024
+  },
+  {
+    "_id": "A098",
+    "student_id": "S007",
+    "type": "Workshop",
+    "name": "Mesh Plug-And-Play Experiences",
+    "position": "Winner",
+    "year": 2023
+  },
+  {
+    "_id": "A099",
+    "student_id": "S085",
+    "type": "Hackathon",
+    "name": "Leverage Rich Convergence",
+    "position": "Runner-up",
+    "year": 2023
+  },
+  {
+    "_id": "A100",
+    "student_id": "S042",
+    "type": "Seminar",
+    "name": "Envisioneer Open-Source Info-Mediaries",
+    "position": "Winner",
+    "year": 2022
+  }
+]
